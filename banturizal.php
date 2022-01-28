@@ -1,0 +1,1 @@
+<?php include 'models/detail_campaign.php'; ?>

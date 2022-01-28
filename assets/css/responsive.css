@@ -1,0 +1,912 @@
+/*HP*/
+@media (max-width: 767.98px) {
+    #blog .campaign-hp .block-blog {
+        margin: 0 10px;
+    }
+
+    #blog .campaign-hp .block-blog .content-blog h4 {
+        font-size: 12px;
+        line-height: normal;
+        margin-bottom: 5px;
+    }
+
+    #blog .campaign-hp .block-blog .content-blog h5 {
+        font-size: 11px;
+        line-height: normal;
+        margin-bottom: 12px;
+    }
+
+    #blog .campaign-hp .card-info {
+        font-size: 10px !important;
+    }
+
+    #blog .campaign-hp .card-keterangan {
+        font-size: 9px !important;
+    }
+
+    #blog .progress {
+        height: 6px;
+    }
+
+    #hero {
+        height: 35vh;
+    }
+
+    #facts .counters span {
+        font-size: 20px;
+    }
+
+    .section-header h3 {
+        font-size: 16px;
+    }
+
+    .section-header h4 {
+        font-size: 14px;
+    }
+
+    .abouts {
+        font-size: 13px;
+    }
+
+    .section-header p {
+        font-size: 12px;
+        margin-bottom: 0 !important;
+    }
+
+    #footer .footer-top .footer-info h3 {
+        font-size: 14px;
+    }
+
+    #hero h2 {
+        font-size: 20px;
+        margin-bottom: 10px !important;
+    }
+
+    #hero p {
+        font-size: 12px;
+    }
+
+    #hero .btn-get-started {
+        font-size: 5px;
+        padding: 8px 32px;
+    }
+
+    #hero p {
+        margin: 0 auto 10px auto;
+
+    }
+
+    .campaign-desktop {
+        display: none;
+    }
+
+    #blog .campaign-hp .content-blog {
+        box-shadow: none;
+        padding: 0;
+    }
+
+    #blog .campaign-hp .progress {
+        margin-bottom: 12px;
+    }
+
+    #blog .lihat-semua .btn-success {
+        font-size: 12px;
+        margin-bottom: 30px;
+    }
+
+    #get-started .feature-block {
+        padding: 0 20px;
+    }
+
+    #get-started .feature-block h4 {
+        margin-bottom: 10px;
+        font-size: 15px;
+    }
+
+    #get-started .feature-block p {
+        font-size: 12px;
+    }
+
+    #call-to-action h3 {
+        font-size: 20px;
+    }
+
+    #call-to-action p {
+        font-size: 12px;
+    }
+
+    #call-to-action .cta-btn {
+        font-size: 12px;
+    }
+
+    #footer .footer-top .footer-info h3 {
+        font-size: 25px;
+    }
+
+    #footer .footer-top .footer-info {
+        margin: 20px 0;
+    }
+
+    #footer .footer-top .footer-info p,
+    #footer .footer-top .social-links a i,
+    #footer .footer-top .footer-links ul a,
+    #footer .footer-top .footer-contact p {
+        font-size: 12px;
+    }
+
+    #footer .copyright {
+        font-size: 12px;
+        padding-top: 20px;
+    }
+
+    .card-detail-content {
+        display: none;
+    }
+
+    .detail-campaign .wrapper {
+        padding-bottom: 35%;
+    }
+
+    .detail-campaign {
+        top: 100px;
+    }
+
+    .card-detail-hp .user {
+        font-size: 14px;
+        margin: 0 0 10px 0;
+    }
+
+    .detail-campaign .sidebar {
+        height: auto;
+        padding: 15px 25px;
+    }
+
+    .detail-campaign .sidebar .terkumpul {
+        font-size: 24px;
+    }
+
+    .detail-campaign .sidebar .target {
+        font-size: 12px;
+    }
+
+    .detail-campaign .sidebar .progress {
+        height: 5px;
+        margin: 10px 0 0 0;
+    }
+
+    .detail-campaign .sidebar .detail {
+        font-size: 12px;
+    }
+
+    .detail-campaign .sidebar .btn-donasi {
+        margin: 20px 0;
+    }
+
+    .card-detail-hp .btn-success,
+    .card-detail-hp .btn-primary,
+    .card-detail-hp .share {
+        font-size: 14px;
+    }
+
+    .detail-campaign .sidebar .btn-share {
+        margin: 15px 0;
+    }
+
+    .detail-campaign .berita {
+        margin: 30px 0;
+    }
+
+    .detail-campaign .berita {
+        font-size: 14px;
+    }
+
+    .donasi-detail .detail-pembayaran {
+        padding-left: .7em;
+    }
+
+    #blog .tentang .detail-tentang {
+        font-size: 13px;
+        padding-top: 15px;
+        padding-bottom: 15px;
+        ;
+    }
+
+    #blog .tentang .logo-image img {
+        width: 12em;
+    }
+
+    #blog .tentang .button-lihat .btn-lihat {
+        font-size: 13px;
+    }
+
+    .circle-avatar {
+        height: 40px;
+        width: 40px;
+    }
+
+    .inisial {
+        line-height: 2.5;
+        font-size: 15px;
+    }
+
+    .nama-donatur {
+        font-size: 12px;
+    }
+
+    .tgl-donasi {
+        font-size: 10px;
+    }
+
+    .doa-dukungan {
+        font-size: 11px;
+    }
+
+    .donasi-jumlah {
+        font-size: 13px;
+    }
+
+    .donasi-top {
+        bottom: 80px !important;
+    }
+
+    .detail-campaign .judul_update {
+        font-size: 1em;
+    }
+
+    #form .button-payment label,
+    #form .accordion-item h2 button {
+        font-size: 12px;
+    }
+
+    input.newbutton,
+    input.newbutton2,
+    input.newbutton4,
+    input.newbutton5,
+    input.newbutton6 {
+        line-height: 30px;
+        font-size: 12px;
+    }
+
+    input.newbutton3 {
+        line-height: 20px;
+        font-size: 12px;
+    }
+
+    .dropup {
+        position: relative;
+        display: inline-block;
+    }
+
+    .dropup-content {
+        display: none;
+        position: absolute;
+        background-color: #f1f1f1;
+        bottom: 40px;
+        z-index: 1;
+    }
+
+    .dropup-content a:hover {
+        background-color: #ccc
+    }
+
+    .dropup:hover .dropup-content {
+        display: block;
+    }
+
+    .dropup:hover .dropbtn {
+        background-color: #2980B9;
+    }
+}
+
+/*DESKTOP*/
+@media (min-width: 992px) {
+    #blog .block-blog .content-blog h4 {
+        font-size: 16px;
+    }
+
+    #blog .block-blog .content-blog h5 {
+        font-size: 14px;
+    }
+
+    #blog .card-info {
+        font-size: 14px !important;
+    }
+
+    #blog .container {
+        margin-bottom: 15px;
+    }
+
+    #blog .progress {
+        height: 6px;
+    }
+
+    #hero {
+        height: 100vh;
+    }
+
+    #facts .counters span {
+        font-size: 48px;
+    }
+
+    .section-header h3 {
+        font-size: 32px;
+    }
+
+    #get-started .feature-block img {
+        margin-bottom: 30px;
+    }
+
+    #footer .footer-top .footer-info h3 {
+        font-size: 34px;
+    }
+
+    #hero h2 {
+        font-size: 48px;
+    }
+
+    #hero .btn-get-started {
+        font-size: 16px;
+        padding: 8px 32px;
+        margin: 10px;
+    }
+
+    #hero p {
+        margin: 0 auto 30px auto;
+    }
+
+    .campaign-hp {
+        display: none;
+    }
+
+    #blog .lihat-semua .btn-success {
+        margin: 30px 0;
+    }
+
+    #call-to-action h3 {
+        font-size: 28px;
+    }
+
+    #call-to-action .cta-btn {
+        font-size: 16px;
+    }
+
+    #footer .footer-top .footer-info p {
+        font-size: 14px;
+    }
+
+    #footer .footer-top .social-links a i {
+        font-size: 16px;
+    }
+
+    #footer .copyright {
+        padding-top: 30px;
+    }
+
+    #footer .footer-top {
+        padding: 60px 0 30px 0;
+    }
+
+    .card-detail-hp {
+        display: none;
+    }
+
+    .main {
+        width: 50%;
+    }
+
+    .detail-campaign .wrapper {
+        padding-bottom: 10%;
+    }
+
+    .detail-campaign {
+        top: 100px;
+    }
+
+    .detail-campaign .sidebar {
+        height: 100%;
+        top: 11%;
+        padding: 15px 25px;
+    }
+
+    .detail-campaign .sidebar .terkumpul {
+        font-size: 24px;
+    }
+
+    .detail-campaign .sidebar .target {
+        font-size: 12px;
+    }
+
+    .detail-campaign .sidebar .progress {
+        height: 10px;
+        margin: 10px 0 0 0;
+    }
+
+    .detail-campaign .sidebar .detail {
+        font-size: 12px;
+    }
+
+    .detail-campaign .sidebar .btn-donasi {
+        margin: 20px 0;
+    }
+
+    .detail-campaign .sidebar .btn-share {
+        margin: 15px 0;
+    }
+
+    .detail-campaign .berita {
+        margin: 30px 0;
+    }
+
+    .detail-campaign .sidebar {
+        width: 25%;
+    }
+
+    #blog .tentang .logo-image img {
+        width: 12em;
+    }
+
+    .circle-avatar {
+        height: 60px;
+        width: 60px;
+    }
+
+    .inisial {
+        line-height: 2;
+        font-size: 28px;
+    }
+
+    .tgl-donasi {
+        font-size: 11px;
+    }
+
+    .doa-dukungan {
+        font-size: 13px;
+    }
+
+    .donasi-jumlah {
+        font-size: 15px;
+    }
+
+    .whatsapp-btn {
+        display: none;
+    }
+
+    #footer-nav {
+        display: none;
+    }
+
+    .detail-campaign .judul_update {
+        font-size: 1.5em;
+    }
+
+    #form .button-payment label,
+    #form .accordion-item h2 button {
+        font-size: 13px;
+    }
+
+    input.newbutton,
+    input.newbutton2,
+    input.newbutton4,
+    input.newbutton5,
+    input.newbutton6 {
+        line-height: 50px;
+        font-size: 14px;
+    }
+
+    input.newbutton3 {
+        line-height: 30px;
+        font-size: 14px;
+    }
+
+}
+
+/* pad */
+@media (min-width:576px) {
+    #blog .block-blog .content-blog h4 {
+        font-size: 16px;
+    }
+
+    #blog .block-blog .content-blog h5 {
+        font-size: 14px;
+    }
+
+    #blog .card-info {
+        font-size: 12px !important;
+    }
+
+    #blog .progress {
+        height: 6px;
+    }
+
+    #hero {
+        height: 50vh;
+    }
+
+    #facts .counters span {
+        font-size: 30px;
+    }
+
+    .section-header h3 {
+        font-size: 25px;
+    }
+
+    .section-header p {
+        font-size: 14px;
+        padding-bottom: 0 !important;
+    }
+
+    #footer .footer-top .footer-info h3 {
+        font-size: 25px;
+    }
+
+    #hero .btn-get-started {
+        font-size: 16px;
+        padding: 8px 32px;
+        margin: 10px;
+    }
+
+    #hero p {
+        margin: 0 auto 30px auto;
+    }
+
+    .campaign-hp {
+        display: none;
+    }
+
+    #blog .lihat-semua .btn-success {
+        font-size: 14px;
+        margin: 30px 0;
+    }
+
+    #call-to-action h3 {
+        font-size: 28px;
+    }
+
+    #call-to-action .cta-btn {
+        font-size: 16px;
+    }
+
+    #footer .footer-top .footer-info p {
+        font-size: 14px;
+    }
+
+    #footer .footer-top .social-links a i {
+        font-size: 16px;
+    }
+
+    #footer .copyright {
+        padding-top: 30px;
+    }
+
+    #footer .footer-top {
+        background: #111;
+        padding: 60px 0 30px 0;
+    }
+
+    .card-detail-hp {
+        display: none;
+    }
+
+    .main {
+        width: 50%;
+    }
+
+    .detail-campaign .wrapper {
+        padding-bottom: 20%;
+    }
+
+    .detail-campaign {
+        top: 100px;
+    }
+
+    .detail-campaign .sidebar {
+        height: 100%;
+        top: 9%;
+        padding: 15px 25px;
+    }
+
+    .detail-campaign .sidebar .terkumpul {
+        font-size: 24px;
+    }
+
+    .detail-campaign .sidebar .target {
+        font-size: 12px;
+    }
+
+    .detail-campaign .sidebar .progress {
+        height: 10px;
+        margin: 10px 0 0 0;
+    }
+
+    .detail-campaign .sidebar .detail {
+        font-size: 12px;
+    }
+
+    .detail-campaign .sidebar .btn-donasi {
+        margin: 20px 0;
+    }
+
+    .detail-campaign .sidebar .btn-share {
+        margin: 15px 0;
+    }
+
+    .detail-campaign .berita {
+        margin: 30px 0;
+    }
+
+    .detail-campaign .sidebar {
+        width: 40%;
+    }
+
+    .detail-campaign .berita {
+        font-size: 14px;
+    }
+
+    #blog .tentang .logo-image img {
+        width: 12em;
+    }
+
+    .circle-avatar {
+        height: 40px;
+        width: 40px;
+    }
+
+    .inisial {
+        line-height: 2.5;
+        font-size: 16px;
+    }
+
+    .nama-donatur {
+        font-size: 12px;
+    }
+
+    .tgl-donasi {
+        font-size: 10px;
+    }
+
+    .doa-dukungan {
+        font-size: 11px;
+    }
+
+    .donasi-jumlah {
+        font-size: 13px;
+    }
+
+    #footer-nav {
+        display: none;
+    }
+
+    .detail-campaign .judul_update {
+        font-size: 1.2em;
+    }
+
+    #form .button-payment label,
+    #form .accordion-item h2 button {
+        font-size: 12px;
+    }
+
+    input.newbutton,
+    input.newbutton2,
+    input.newbutton4,
+    input.newbutton5,
+    input.newbutton6 {
+        line-height: 40px;
+        font-size: 13px;
+    }
+
+    input.newbutton3 {
+        line-height: 25px;
+        font-size: 13px;
+    }
+
+}
+
+
+@media (min-width:1200px) {
+    #blog .block-blog .content-blog h4 {
+        font-size: 17px;
+    }
+
+    #blog .block-blog .content-blog h5 {
+        font-size: 14px;
+    }
+
+    #blog .card-info {
+        font-size: 14px !important;
+    }
+
+    #blog .container {
+        margin-bottom: 15px;
+    }
+
+    #blog .progress {
+        height: 6px;
+    }
+
+    #hero {
+        height: 100vh;
+    }
+
+    #facts .counters span {
+        font-size: 48px;
+    }
+
+    .section-header h3 {
+        font-size: 32px;
+    }
+
+    #get-started .feature-block img {
+        margin-bottom: 30px;
+    }
+
+    #footer .footer-top .footer-info h3 {
+        font-size: 34px;
+    }
+
+    #hero h2 {
+        font-size: 48px;
+    }
+
+    #hero p {
+        margin: 0 auto 30px auto;
+    }
+
+    #hero .btn-get-started {
+        font-size: 16px;
+        padding: 8px 32px;
+        margin: 10px;
+    }
+
+    .campaign-hp {
+        display: none;
+    }
+
+    #blog .lihat-semua .btn-success {
+        margin: 30px 0;
+    }
+
+    #call-to-action h3 {
+        font-size: 28px;
+    }
+
+    #call-to-action .cta-btn {
+        font-size: 16px;
+    }
+
+    #footer .footer-top .footer-info p {
+        font-size: 14px;
+    }
+
+    #footer .footer-top .social-links a i {
+        font-size: 16px;
+    }
+
+    #footer .copyright {
+        padding-top: 30px;
+    }
+
+    #footer .footer-top {
+        padding: 60px 0 30px 0;
+    }
+
+    .card-detail-hp {
+        display: none;
+    }
+
+    .main {
+        width: 50%;
+    }
+
+    .detail-campaign .wrapper {
+        padding-bottom: 10%;
+    }
+
+    .detail-campaign {
+        top: 100px;
+    }
+
+    .detail-campaign .sidebar {
+        width: 25%;
+    }
+
+    .detail-campaign .sidebar {
+        height: 100%;
+        top: 11%;
+        padding: 15px 25px;
+    }
+
+    .detail-campaign .sidebar .terkumpul {
+        font-size: 24px;
+    }
+
+    .detail-campaign .sidebar .target {
+        font-size: 12px;
+    }
+
+    .detail-campaign .sidebar .progress {
+        height: 10px;
+        margin: 10px 0 0 0;
+    }
+
+    .detail-campaign .sidebar .detail {
+        font-size: 12px;
+    }
+
+    .detail-campaign .sidebar .btn-donasi {
+        margin: 20px 0;
+    }
+
+    .detail-campaign .sidebar .btn-share {
+        margin: 15px 0;
+    }
+
+    .detail-campaign .berita {
+        margin: 30px 0;
+    }
+
+    .detail-campaign .judul_update {
+        font-size: 1.5em;
+    }
+
+    #blog .tentang .logo-image img {
+        width: 12em;
+    }
+
+    #main .donasi-proses .norek .input-group {
+        width: 50%;
+    }
+
+    .circle-avatar {
+        height: 60px;
+        width: 60px;
+    }
+
+    .inisial {
+        line-height: 2;
+        font-size: 28px;
+    }
+
+    .nama-donatur {
+        font-size: 15px;
+    }
+
+    .tgl-donasi {
+        font-size: 11px;
+    }
+
+    .doa-dukungan {
+        font-size: 13px;
+    }
+
+    .donasi-jumlah {
+        font-size: 15px;
+    }
+
+    .whatsapp-btn {
+        display: none;
+    }
+
+    #footer-nav {
+        display: none;
+    }
+
+    #form .button-payment label,
+    #form .accordion-item h2 button {
+        font-size: 14px;
+    }
+
+    input.newbutton,
+    input.newbutton2,
+    input.newbutton4,
+    input.newbutton5,
+    input.newbutton6 {
+        line-height: 50px;
+        font-size: 14px;
+    }
+
+    input.newbutton3 {
+        line-height: 30px;
+        font-size: 14px;
+    }
+
+}
